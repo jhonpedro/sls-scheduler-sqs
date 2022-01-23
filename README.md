@@ -6,3 +6,6 @@ I did'nt managed to setup a copy of the `.ejs` files to the bundle but it works 
 
 Looking know I much prefer webpack for the bundle responsability. I don't know but I spent a lot of time trying to make a copy of some files and the time that I did it with Webpack it was so much easier. I have to study more about [Esbuild](https://esbuild.github.io/) and [Webpack](https://webpack.js.org/) too.
 
+# Important
+
+The schedule it's marked to every minute, that could be changed for a more convenient time.
